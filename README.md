@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**gabi-man/gabi-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+My name is Gabriel, I'm from Argentina and I'm an System Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working for Mendoza Central Entretenimientos as a Staff Sysadmin.
+
+
+
+### **Skills**
+
+------------
+
+
+Python Programming
+
+AWS, Azure, Huawei Cloud.
+
+Critical thinking and problem solving skills.
+
+Some JS, HTML5, CSS3 and BASH coding.
+
