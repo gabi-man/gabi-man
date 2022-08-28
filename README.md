@@ -4,7 +4,7 @@
 
 My name is Gabriel, I'm from Argentina and I'm an System Analyst.
 
-Currently working for Mendoza Central Entretenimientos as a Staff Sysadmin.
+Currently working for Silice as a Staff Linux Sysadmin.
 
 
 
